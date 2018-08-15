@@ -11,7 +11,7 @@ namespace App4_ControleXP
 		{
 			InitializeComponent();
 
-			MainPage = new MainPage();
+			MainPage = new App4_ControleXP.Menu.Master();
 		}
 
 		protected override void OnStart ()

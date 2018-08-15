@@ -156,4 +156,7 @@
       <Name>App4_ControleXP</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\bt.png" />
+  </ItemGroup>
 </Project>
