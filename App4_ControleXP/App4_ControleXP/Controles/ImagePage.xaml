@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App4_ControleXP.Controles.ImagePage">
+    <ContentPage.Content>
+        <StackLayout x:Name="Container">
+            <Image Source="https://fiverr-res.cloudinary.com/images/t_medium7,q_auto,f_auto/gigs/65161479/original/947fbb65743c4722d85d48d1a0d5e92df5eef93a/design-premium-logo-for-you.jpg"
+                   Aspect="Fill"
+                   IsOpaque="True"
+                   x:Name="ImageOne"
+                   />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
