@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="App4_ControleXP.Controles.DatePickerPage">
     <ContentPage.Content>
-        <StackLayout>
+        <StackLayout VerticalOptions="CenterAndExpand">
             <DatePicker
                 TextColor="Blue"
                 Format="dd/MM/yyyy"
